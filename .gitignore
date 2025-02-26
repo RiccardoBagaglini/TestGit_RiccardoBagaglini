@@ -1,1 +1,22 @@
- 
+# File esenoui per altri IDE/Strumenti
+
+#Maven
+!. mvn/wrapper/maven-wrapper/maven-wrapper.jar
+
+# File di configurazione dell'editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build e output
+/dist
+/build
+/out
+
+# File temporanei
+*.tmp
+*.swp
+*.swo
