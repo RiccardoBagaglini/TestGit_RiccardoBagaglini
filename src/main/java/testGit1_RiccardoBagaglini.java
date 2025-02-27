@@ -1,3 +1,3 @@
-public class Haloa{
+public class testGit1_RiccardoBagaglini{
 
 }
